@@ -52,3 +52,13 @@ VimCommand         | Description | Input           | Output     |
 **`ds{ds}`**|Revert to original text| ({ Hello } world!) | Hello World!|
 **`ysiw<em>`**|Emphasize hello (assuming it is selected)|Hello world!|**`<em>`**Hello**`</em>`**
 **`S<p class="important">`**|Adds the specified tag with a close around the selection|**`<em>`**Hello**`</em>`** | **`<p class="important">`** `<em>`Hello`</em>` world! **`</p>`**|
+
+##Sublime 3 Plugins
+### Plugins that are helpful when using sublime
+
+[Gitignored file excluder](https://packagecontrol.io/packages/Gitignored%20File%20Excluder) - Ignores files/folders that are listed in .gitignore during file searches. (good for ignoring .meteor/local)
+
+[Better Coffeescript](https://packagecontrol.io/packages/Better%20CoffeeScript) - Not sure if this is really 'better' than any other Coffeescript syntax highligher but I'd like to believe so.
+
+[Jade](https://packagecontrol.io/packages/Jade) - Jade syntax highlighting... the top plugin for the task.
+
