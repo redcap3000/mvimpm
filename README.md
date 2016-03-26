@@ -63,3 +63,5 @@ VimCommand         | Description | Input           | Output     |
 [Jade](https://packagecontrol.io/packages/Jade) - Jade syntax highlighting... the top plugin for the task.
 
 [Less](https://packagecontrol.io/packages/LESS) - Top Less highlighting package.
+
+[Monokai Extended](https://packagecontrol.io/packages/Monokai%20Extended) - This is an extended version of the popular Monokai theme; Extends Monokai from Soda with new syntax highlighting for Markdown, LESS, and Handlebars and improved syntax highlighting for RegEx, HTML, LESS, CSS, JavaScript and more. 
