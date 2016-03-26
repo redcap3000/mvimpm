@@ -62,3 +62,4 @@ VimCommand         | Description | Input           | Output     |
 
 [Jade](https://packagecontrol.io/packages/Jade) - Jade syntax highlighting... the top plugin for the task.
 
+[Less](https://packagecontrol.io/packages/LESS) - Top Less highlighting package.
