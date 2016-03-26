@@ -56,12 +56,17 @@ VimCommand         | Description | Input           | Output     |
 ##Sublime 3 Plugins
 ### Plugins that are helpful when using sublime
 
-[Gitignored file excluder](https://packagecontrol.io/packages/Gitignored%20File%20Excluder) - Ignores files/folders that are listed in .gitignore during file searches. (good for ignoring .meteor/local)
-
-[Better Coffeescript](https://packagecontrol.io/packages/Better%20CoffeeScript) - Not sure if this is really 'better' than any other Coffeescript syntax highligher but I'd like to believe so.
-
-[Jade](https://packagecontrol.io/packages/Jade) - Jade syntax highlighting... the top plugin for the task.
-
-[Less](https://packagecontrol.io/packages/LESS) - Top Less highlighting package.
-
-[Monokai Extended](https://packagecontrol.io/packages/Monokai%20Extended) - This is an extended version of the popular Monokai theme; Extends Monokai from Soda with new syntax highlighting for Markdown, LESS, and Handlebars and improved syntax highlighting for RegEx, HTML, LESS, CSS, JavaScript and more. 
+Title         | Description |  Type     |
+--------------|-------------|----------|
+|[Gitignored file excluder](https://packagecontrol.io/packages/Gitignored%20File%20Excluder) | Ignores files/folders that are listed in .gitignore during file searches. (good for ignoring .meteor/local) | Utility|
+|[SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) |  **Sublime Text 3 Only** Adds options/features to the sidebar menu during file selection. Maybe a few too many options?|
+|[GitGutter](https://packagecontrol.io/packages/GitGutter)| Shows changes (in the line number gutter) to a repo (added/removed/modified)| Utility |
+|[SideBarGit](https://packagecontrol.io/packages/SideBarGit)| Add git commands to sidebar. Textual port of komodin extension for sublime text. | Utility |
+[Auto Hide Sidebar](https://packagecontrol.io/packages/Auto%20Hide%20Sidebar) | Hides the sidebar after some activity happens in the window. Reappears under various circumstances. | Utility |
+[SublimeFixMacPath](https://github.com/int3h/SublimeFixMacPath) | For resolving potential errors various plugins may have with commands such as ```make``` to properly configure the ```PATH``` on Macosx. | System Utility |
+|[Better Coffeescript](https://packagecontrol.io/packages/Better%20CoffeeScript) | Not sure if this is really 'better' than any other Coffeescript syntax highligher but I'd like to believe so. | Syntax |
+|[Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter) | Extends support for bracket highlighting  such as: [], (), {}, "", '', #!xml <tag></tag>| Syntax |
+|[Javascript Beautify](https://packagecontrol.io/packages/Javascript%20Beautify) | Applies defined rules to format javascript files. Has option to format on save. | Syntax |
+|[Jade](https://packagecontrol.io/packages/Jade) | Jade syntax highlighting... the top plugin for the task. | Syntax |
+|[Less](https://packagecontrol.io/packages/LESS) | Top Less highlighting package. | Syntax |
+|[Monokai Extended](https://packagecontrol.io/packages/Monokai%20Extended) | This is an extended version of the popular Monokai theme; Extends Monokai from Soda with new syntax highlighting for Markdown, LESS, and Handlebars and improved syntax highlighting for RegEx, HTML, LESS, CSS, JavaScript and more. | Theme |
